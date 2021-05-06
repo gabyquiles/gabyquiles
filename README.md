@@ -4,6 +4,7 @@ I'm a software engineer with a passion for learning new technologies and languag
 
 
 Technologies:
+
 <img height="30" src="https://img.icons8.com/color/452/typescript.png" alt="Typescript"/> <img height="30" src="https://img.icons8.com/color/452/javascript.png" alt="Javascript"/> <img height="30" src="https://img.icons8.com/color/452/php.png" alt="PHP" /> <img height="30" src="https://img.icons8.com/color/452/java.png" alt="Java" /> <img height="30" src="https://img.icons8.com/color/452/symfony.png" alt="Symfony" /> <img height="30" src="https://img.icons8.com/color/452/react-native.png" alt="React" /> <img height="30" src="https://img.icons8.com/color/452/android.png" alt="Android" /> 
 
 <!--
