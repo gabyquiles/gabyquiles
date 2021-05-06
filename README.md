@@ -3,13 +3,8 @@
 I'm a software engineer with a passion for learning new technologies and languages. With time I've learned that knowing multiple languages and following their communities and better practices help me to further my knowledge and experience. I like to apply an interdisciplinary approach to develop innovative solutions to complex problems. :computer:
 
 
-Technologies:  
-* PHP
-* TypeScript / Javascript
-* Java
-* Symfony
-* React
-* Android
+Technologies:
+<img height="20"src="https://img.icons8.com/color/452/typescript.png"> <img height="20"src="https://img.icons8.com/color/452/javascript.png"> <img height="20"src="https://img.icons8.com/color/452/php.png"> <img height="20"src="https://img.icons8.com/color/452/java.png"> <img height="20"src="https://img.icons8.com/color/452/symfony.png"> <img height="20"src="https://img.icons8.com/color/452/react-native.png"> <img height="20"src="https://img.icons8.com/color/452/android.png"> 
 
 <!--
 **gabyquiles/gabyquiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
